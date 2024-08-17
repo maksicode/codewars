@@ -18,3 +18,5 @@ function Hero (name ='Hero') {
     this.damage = 5;
     this.experience = 0;
   }
+
+  //Good Night
