@@ -12,7 +12,7 @@ function doubleChar(str) {
     return result;
 }
 
-// console.log(doubleChar("String"));
-// console.log(doubleChar("Hello")); 
-// console.log(doubleChar("1234!_ ")); 
+console.log(doubleChar("String"));
+console.log(doubleChar("Hello")); 
+console.log(doubleChar("1234!_ "));
 
