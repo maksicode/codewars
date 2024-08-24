@@ -8,6 +8,8 @@
 // with spacing and special characters ~#$%^&!@*():;"'.,? all intact.
 
 function stringClean(s){
-    
+    return s.replace(/\d+/g, '');
   }
+
+//   console.log(stringClean('Hel8345lo78, Wo47r45ld4567: .766'));
 
