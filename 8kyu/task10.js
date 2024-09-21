@@ -22,3 +22,4 @@ function enough(cap, on, wait) {
 // variant 2
 const enough1 = (cap, on, wait) => (cap >= on + wait ? 0 : on + wait - cap);
 // console.log(enough1(100, 25, 67));
+
