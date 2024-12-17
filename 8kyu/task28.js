@@ -7,6 +7,6 @@
 //     return stringarray.map(Number);
 // }
 
-const toNumberArray = stringarray => stringarray.map(Number);
+const toNumberArray = (stringarray) => stringarray.map(Number);
 
 console.log(toNumberArray(["1", "2", "3"]));
